@@ -40,9 +40,10 @@ __**Very Easy Installation: program will need administrative privilages**__ (For
 
 Download the latest release file and open up your Terminal at the root directory you downloaded it to.
 The executable will setup everything for you.
+1. Unzip the file from [Releases](https://github.com/WWEMGamer2/RapidChatApp/releases/tag/linux-compact-install).
 Execute in your Terminal by going:
 ```bash
-chmod +x ./rapidchat-install;./rapidchat-install/install;
+chmod +x ./rapidchat-install/install;./rapidchat-install/install;
 ```
 
 If it all works out correctly, you should see a screen after the installation that has the application open.
