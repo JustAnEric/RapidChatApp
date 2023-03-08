@@ -18,3 +18,20 @@ Install tkinter on Windows:
 
 >> Who are we:
 >> We at FlowFlux Studios are a development team focused on HTML, PHP, CSS, JS, PYTHON and NODEJS. Check out our site for more information. [Link](https://rapidchat.ericplayzyt.repl.co)
+
+__**Easy Installation**__
+
+Clone this repository by going:
+```bash
+git clone https://github.com/WWEMGamer2/RapidChatApp.git --quiet; echo "Finished";
+```
+
+It should say "Finished" in the Terminal after it is done.
+CD and run the app by going:
+
+```bash
+cd ./RapidChatApp/main;echo "Starting...";python3 ui.py &;
+```
+
+And a window should pop up!
+> :red_square: If you are getting errors in the Terminal, be sure to have installed all the dependencies that make it work.
