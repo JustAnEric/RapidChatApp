@@ -1,3 +1,5 @@
+#!/bin/python
+#!/bin/python3
 import tkinter,time,webview,os
 
 tewi = tkinter.Tk()
