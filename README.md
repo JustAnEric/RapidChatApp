@@ -13,3 +13,5 @@ Install tkinter on Mac:
 
 Install tkinter on Windows:
   - Tkinter on Windows becomes pre-bundled and installed with the Python Installer.
+
+> ⚠️ Do not run the app as sudo or adminstrator. Giving this app administrative privilages could harm your machine and operating system
