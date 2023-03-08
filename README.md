@@ -15,3 +15,6 @@ Install tkinter on Windows:
   - Tkinter on Windows becomes pre-bundled and installed with the Python Installer.
 
 > ⚠️ Do not run the app as sudo or adminstrator. Giving this app administrative privilages could harm your machine and operating system
+
+>> Who are we:
+>> We at FlowFlux Studios are a development team focused on HTML, PHP, CSS, JS, PYTHON and NODEJS. Check out our site for more information. [Link](https://rapidchat.ericplayzyt.repl.co)
