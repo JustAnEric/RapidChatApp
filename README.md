@@ -30,7 +30,7 @@ It should say "Finished" in the Terminal after it is done.
 CD and run the app by going:
 
 ```bash
-cd ./RapidChatApp/main;echo "Starting...";python3 ui.py &;
+cd ./RapidChatApp/main;echo "Starting...";python3 ui.py &
 ```
 
 And a window should pop up!
