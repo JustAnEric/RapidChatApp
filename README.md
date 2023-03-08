@@ -36,7 +36,7 @@ cd ./RapidChatApp/main;echo "Starting...";python3 ui.py &
 And a window should pop up!
 > :red_square: If you are getting errors in the Terminal, be sure to have installed all the dependencies that make it work.
 
-__**Very Easy Installation: program will need administrative privilages**__
+__**Very Easy Installation: program will need administrative privilages**__ (For Linux only)
 
 Download the latest release file and open up your Terminal at the root directory you downloaded it to.
 The executable will setup everything for you.
