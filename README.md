@@ -48,3 +48,6 @@ chmod +x ./rapidchat-install/install;./rapidchat-install/install;
 
 If it all works out correctly, you should see a screen after the installation that has the application open.
 Our installation is all done!
+
+__**Install with our app.**__
+You have an option to easily install all the dependencies needed from our app. Download our app for Mac, Linux and Windows.
